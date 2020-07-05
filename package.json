@@ -1,0 +1,13 @@
+{
+  "name": "M A M",
+  "description": "M A M",
+  "version": "0.0.0",
+  "main": "M A M.js",
+  "scripts": {
+    "start": "node M A M.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
